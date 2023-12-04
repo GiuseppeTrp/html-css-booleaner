@@ -1,0 +1,22 @@
+body{
+    height: 50%;
+    width: 50%;
+
+}
+
+
+
+
+.blueTables{
+    background-color: rgba(127, 255, 212, 0.521);
+}
+
+
+
+thead{
+    background-color: rgb(12, 230, 219);
+    color: white;
+    text-align: justify;
+     }
+
+
