@@ -1,86 +1,86 @@
-body{
+body {
     margin: 100px;
-
-
-}
-thead{
+  
+  
+  }
+  
+  thead {
     background-color: rgb(12, 230, 219);
     color: white;
     text-align: justify;
-    
-   
-    
-}
-     
-header{
+  
+  
+  }
+  
+  header {
     background-image: url("../img/pattern.png");
     background-position: center;
     background-repeat: repeat;
     background-size: 50%;
     background-color: rgb(0, 119, 255);
     height: 8em;
-    }
-
-#logo{
-   
+  }
+  
+  #logo {
+  
     width: 200px;
     height: auto;
     padding-top: 6%;
-
-}
-
-.grigio{
+  
+  }
+  
+  .grigio {
     color: gray;
     font-weight: lighter;
-   
-}
-
-.evidenziatore{
+  
+  }
+  
+  .evidenziatore {
     background-color: yellow;
-}
-
-
-#container{
+  }
+  
+  
+  #container {
     margin: 20px 0 20px 0;
-
-}
-
-#autore{
+  
+  }
+  
+  #autore {
     color: rgb(5, 154, 154);
-}
-
-
-
-
-#conclusioni{
+  }
+  
+  
+  #conclusioni {
     margin-bottom: 40px;
-}
-
-
-#tabella{
+  }
+  
+  
+  #tabella {
     background-color: rgb(26, 170, 230);
     height: 1px;
-}
-.intestazione{
+  }
+  
+  .intestazione {
     color: white;
     font-weight: bold;
-}
-.colorRow{
+  }
+  
+  .colorRow {
     background-color: rgb(95, 186, 186);
-}
-
-
-table{
-    
+  }
+  
+  
+  table {
+  
     border-collapse: collapse;
-}
-
-td{
+  }
+  
+  td {
     width: 5%;
-}
-
-#firstFooterImg{
-    margin: 0px;
+  }
+  
+  #firstFooterImg {
+    margin: 0;
     background-image: url("../img/graph.jpg");
     background-repeat: no-repeat;
     color: #FFFFFF;
@@ -92,9 +92,9 @@ td{
     width: 240px;
     height: 150px;
   }
-
-  #secondFooterImg{
-    margin: 0px;
+  
+  #secondFooterImg {
+    margin: 0;
     background-image: url("../img/monitor.jpg");
     background-repeat: no-repeat;
     color: #FFFFFF;
@@ -105,8 +105,5 @@ td{
     text-align: center;
     width: 240px;
     height: 150px;
-
+  
   }
- 
-    
-
