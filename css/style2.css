@@ -1,13 +1,4 @@
 
-  
-  thead {
-    background-color: rgb(12, 230, 219);
-    color: white;
-    text-align: justify;
-  
-  
-  }
-  
   header {
     background-image: url("../img/pattern.png");
     background-position: center;
@@ -15,6 +6,7 @@
     background-size: 50%;
     background-color: rgb(0, 119, 255);
     height: 8em;
+
   }
   
   #logo {
@@ -56,6 +48,28 @@
     height: 1px;
   }
   
+
+  table {
+  
+    border-collapse: collapse;
+  }
+  
+  td {
+    width: 5%;
+  }
+
+
+
+
+  thead {
+    background-color: rgb(12, 230, 219);
+    color: white;
+    text-align: justify;
+  
+  
+  }
+  
+  
   .intestazione {
     color: white;
     font-weight: bold;
@@ -66,14 +80,7 @@
   }
   
   
-  table {
-  
-    border-collapse: collapse;
-  }
-  
-  td {
-    width: 5%;
-  }
+
   
   #firstFooterImg {
     margin: 0;
